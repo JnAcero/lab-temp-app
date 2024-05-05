@@ -1,3 +1,9 @@
+# Pasos para levantar la palicacion de vue
+- 1. descargar nodejs
+- 2. clonar el repositorio
+  3. ejecutar el comando dentro del directorio del proyecto : npm install
+  4. ejecutar el comando:  npm run dev
+  5. Ir al navegador y pegar la direccion
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
